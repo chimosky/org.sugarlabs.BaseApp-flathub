@@ -19,6 +19,7 @@
     "modules": [
         "shared-modules/dbus-glib/dbus-glib-0.110.json",
         "shared-modules/intltool/intltool-0.51.json",
+        "shared-modules/pygame/pygame-1.9.6.json",
         {
             "name": "empy",
             "cleanup": [ "*" ],
